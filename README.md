@@ -78,4 +78,4 @@
 
 # 📫 How to reach me?
 
-You can contact me at `o.borges.dev@gmail.com` or on [my GitHub](https://github.com/OrnellaBorges)
+You can contact me at `borges.ornella@gmail.com` or on [my GitHub](https://github.com/OrnellaBorges)
