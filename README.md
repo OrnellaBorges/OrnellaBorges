@@ -49,11 +49,6 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OrnellaBorges&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrnellaBorges&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
 ## SOFT SKILLS
 
 <p>
