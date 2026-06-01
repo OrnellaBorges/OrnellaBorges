@@ -1,6 +1,9 @@
 <p align="center">
   <img src="./assets/banner-ornella.png" alt="Ornella Borges Banner" width="100%" />
 </p>
+<p align="center">
+  <img src="./assets/Image générée 1.png" alt="Ornella Borges Banner" width="100%" />
+</p>
 
 # 👉 ABOUT ME :
 
