@@ -76,4 +76,4 @@
 
 # 📫 How to reach me?
 
-You can contact me at `borges.ornella@gmail.com` or on [my GitHub](https://github.com/OrnellaBorges)
+You can contact me at `borges.ornella@gmail.com`, on [my GitHub](https://github.com/OrnellaBorges) or visit my portfolio : [Ornella Borges](https://obgs-starwars.vercel.app/)
